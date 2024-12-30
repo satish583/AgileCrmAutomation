@@ -200,7 +200,7 @@ public class Webutils {
 				act.moveToElement(wbElement).build().perform();
 				String  actualtax=wbElement.getText();
 				System.out.println(actualtax);
-
+// jkvgkgvkg
 				System.out.println("******");
 				List<WebElement>lweb=driver.findElements(By.xpath("//div[@class='drop_mnu']["+(i+1)+"]//a"));
 				int counts=	lweb.size();
