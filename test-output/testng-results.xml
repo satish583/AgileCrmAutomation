@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-30T13:45:52 IST" name="Default suite" finished-at="2024-12-30T13:46:09 IST" duration-ms="16719">
+    <groups>
+    </groups>
+    <test started-at="2024-12-30T13:45:52 IST" name="Default test" finished-at="2024-12-30T13:46:09 IST" duration-ms="16719">
+      <class name="com.agile.crm.testcases.OrangeHrm">
+        <test-method signature="validBrowserPage()[pri:1, instance:com.agile.crm.testcases.OrangeHrm@15bb5034]" started-at="2024-12-30T13:45:52 IST" name="validBrowserPage" finished-at="2024-12-30T13:46:04 IST" duration-ms="11530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validBrowserPage -->
+        <test-method signature="ValidLoginpage()[pri:2, instance:com.agile.crm.testcases.OrangeHrm@15bb5034]" started-at="2024-12-30T13:46:04 IST" name="ValidLoginpage" finished-at="2024-12-30T13:46:06 IST" duration-ms="2043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginpage -->
+        <test-method signature="Admintest()[pri:3, instance:com.agile.crm.testcases.OrangeHrm@15bb5034]" started-at="2024-12-30T13:46:06 IST" name="Admintest" finished-at="2024-12-30T13:46:09 IST" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admintest -->
+      </class> <!-- com.agile.crm.testcases.OrangeHrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
