@@ -29,4 +29,7 @@ public class AdminPagesOr {
 	
 	@FindBy(xpath = "//div[text()='Enabled']")
 	protected WebElement clickOnEnavledElement;
+
+
+	
 }
